@@ -1,0 +1,18 @@
+
+.treerect {
+	cursor: pointer;
+	fill: #fff;
+	stroke: steelblue;
+	stroke-width: 1.5px;
+  }
+  
+  text {
+  cursor:pointer;	
+  font-size:13px;
+  }
+  
+  path.link {
+	fill: none;
+	stroke: rgb(255, 145, 0);
+	stroke-width: 1.5px;
+  }

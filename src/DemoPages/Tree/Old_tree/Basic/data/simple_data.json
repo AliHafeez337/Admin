@@ -1,0 +1,10 @@
+{
+    "downward":{
+      "direction":"downward",
+      "name":"origin"
+    },
+    "upward":{
+      "direction":"upward",
+      "name":"origin"
+    }
+  }

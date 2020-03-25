@@ -1,0 +1,152 @@
+{
+    "downward":{
+      "direction":"downward",
+      "depth": 0,
+      "id": 3,
+      "x": 462.5,
+      "x0": 462.5,
+      "y": 220,
+      "y0": 220,
+      "name":"origin",
+      "children":[
+        {
+            "depth": 1,
+            "id": 5,
+            "x": 231.25,
+            "x0": 231.25,
+            "y": 145,
+            "y0": 145,
+          "name":"qrohlf/trianglify (2014)",
+          "parent": {
+            "depth": 0,
+            "direction": "downward",
+            "id": 3,
+            "name": "origin",
+            "x": 462.5,
+            "x0": 462.5,
+            "y": 220,
+            "y0": 220,
+            "children":[
+                {
+                  "name":"gstf/trianglify-wallpaper (2014)",
+                  "depth": 1,
+                  "id": 5,
+                  "x": 231.25,
+                  "x0": 231.25,
+                  "y": 145,
+                  "y0": 145,
+                  "parent": {
+                    "depth": 1,
+                    "id": 5,
+                    "x": 231.25,
+                    "x0": 231.25,
+                    "y": 145,
+                    "y0": 145,
+                    "children":[]
+                  }
+                },
+                {
+                    "depth": 1,
+                    "id": 5,
+                    "x": 231.25,
+                    "x0": 231.25,
+                    "y": 145,
+                    "y0": 145,
+                  "name":"kimar/trianglify-api (2014)",
+                  "parent": {
+                    "depth": 1,
+                    "id": 5,
+                    "x": 231.25,
+                    "x0": 231.25,
+                    "y": 145,
+                    "y0": 145,
+                    "children":[
+                      {
+                        "depth": 1,
+                        "id": 5,
+                        "x": 231.25,
+                        "x0": 231.25,
+                        "y": 145,
+                        "y0": 145,
+                        "name":"NathanEpstein/D3xter (2014)",
+                        "parent":{
+                            "depth": 1,
+                            "id": 5,
+                            "x": 231.25,
+                            "x0": 231.25,
+                            "y": 145,
+                            "y0": 145,
+                            "children":[]
+                        }
+                      }]
+                  }
+                }
+              ]
+          }
+        },
+        {
+            "direction":"downward",
+            "depth": 0,
+            "id": 3,
+            "x": 462.5,
+            "x0": 462.5,
+            "y": 220,
+            "y0": 220,
+          "name":"andredumas/techan.js (2014)",
+          "children":[]
+        }
+      ]
+    },
+    "upward":{
+        "x": 462.5,
+        "x0": 462.5,
+        "y": 270,
+        "y0": 270,
+        "depth": 0,
+        "id": 1,
+      "direction":"upward",
+      "name":"origin",
+      "children":[
+        {
+            "depth": 1,
+            "id": 2,
+            "x": 462.5,
+            "x0": 462.5,
+            "y": 345,
+            "y0": 345,
+          "name":"tmpvar/jsdom (2010)",
+          "parent": {
+            "x": 462.5,
+            "x0": 462.5,
+            "y": 270,
+            "y0": 270,
+            "depth": 0,
+            "id": 1,
+            "direction":"upward",
+            "name":"origin",
+            "children":[
+              {
+                "depth": 1,
+                "id": 2,
+                "x": 462.5,
+                "x0": 462.5,
+                "y": 345,
+                "y0": 345,
+                "name":"dperini/nwmatcher (2009)",
+                "parent" : {
+                    "depth": 1,
+                    "id": 2,
+                    "x": 462.5,
+                    "x0": 462.5,
+                    "y": 345,
+                    "y0": 345,
+                    "children":[]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+
